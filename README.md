@@ -11,7 +11,8 @@
 #### - Curiosity about me: I have already participated in an [electronics competition](https://www.instagram.com/p/Boe-CIPHYlm/?utm_source=ig_web_copy_link)🥇 at [Minipa of Brazil](https://www.minipa.com.br/sobre-minipa)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroC0sta"  marginLeft = 400/>
-## 🚀 Technologies and Tools  🧰 ⚙️
+
+### 🚀 Technologies and Tools  🧰 ⚙️
 <div>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -31,7 +32,8 @@
 <img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </div>
-## Contatos:
+
+### Contatos:
 
 <div>
 <a href="www.linkedin.com/in/pe-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
