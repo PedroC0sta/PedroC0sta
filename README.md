@@ -11,7 +11,7 @@ Years ago, I started my journey in technology by studying and graduating as an e
 - Curiosity about me: I have already participated in an [electronics competition](https://www.instagram.com/p/Boe-CIPHYlm/?utm_source=ig_web_copy_link)🥇 at [Minipa of Brazil](https://www.minipa.com.br/sobre-minipa)
 
 #### 🚀 Technologies and Tools  🧰 ⚙️
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50  width=50/>
          
 
 
