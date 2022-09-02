@@ -1,4 +1,5 @@
 ### Hi, what's up? I'm Pedro Costa! 
+<br>
 #### Web Development Student at [Trybe](https://github.com/betrybe)
 
 Years ago, I started my journey in technology by studying and graduating as an electronics technician! Today, I work with e-commerce and study web development at Trybe. 
