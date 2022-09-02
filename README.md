@@ -10,12 +10,9 @@ Years ago, I started my journey in technology by studying and graduating as an e
 - When I get the time, I like to play whith [Arduino](https://www.arduino.cc/)🤖🤖🤖
 - Curiosity about me: I have already participated in an [electronics competition](https://www.instagram.com/p/Boe-CIPHYlm/?utm_source=ig_web_copy_link)🥇 at [Minipa of Brazil](https://www.minipa.com.br/sobre-minipa)
 
-####🚀 Technologies and Tools 🧰⚙️
-[git]<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-
-####
+#### 🚀 Technologies and Tools  🧰 ⚙️
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+         
 
 
 ### Contatos:
