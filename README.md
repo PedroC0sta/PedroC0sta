@@ -37,7 +37,7 @@
 
 <div>
 <a href="www.linkedin.com/in/pe-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="www.linkedin.com/in/pe-costa"  target="_blank">linkedin</a>
+<link href="www.linkedin.com/in/pe-costa"  target="_blank">linkedin</link>
 <a href="https://t.me/PedroC0sta" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
