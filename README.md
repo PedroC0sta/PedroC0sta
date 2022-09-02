@@ -1,5 +1,5 @@
 ### Hi, what's up? I'm Pedro Costa! 
-<br>
+
 #### Web Development Student at [Trybe](https://github.com/betrybe)
 
 Years ago, I started my journey in technology by studying and graduating as an electronics technician! Today, I work with e-commerce and study web development at Trybe. 
@@ -11,7 +11,8 @@ Years ago, I started my journey in technology by studying and graduating as an e
 - Curiosity about me: I have already participated in an [electronics competition](https://www.instagram.com/p/Boe-CIPHYlm/?utm_source=ig_web_copy_link)🥇 at [Minipa of Brazil](https://www.minipa.com.br/sobre-minipa)
 
 ####🚀 Technologies and Tools 🧰⚙️
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+[git]<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
 ####
