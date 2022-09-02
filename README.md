@@ -10,7 +10,7 @@
 #### - When I get the time, I like to play whith [Arduino](https://www.arduino.cc/)🤖🤖🤖
 #### - Curiosity about me: I have already participated in an [electronics competition](https://www.instagram.com/p/Boe-CIPHYlm/?utm_source=ig_web_copy_link)🥇 at [Minipa of Brazil](https://www.minipa.com.br/sobre-minipa)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroC0sta" style={{ marginLeft = 40}}/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroC0sta"  marginLeft = 400/>
 ## 🚀 Technologies and Tools  🧰 ⚙️
 <div>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
