@@ -1,4 +1,4 @@
-### Hi, what's up? I'm Pedro Costa! 
+# Hi, what's up? I'm Pedro Costa! 
 
 #### Web Development Student at [Trybe](https://github.com/betrybe)
 
