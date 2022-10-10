@@ -6,7 +6,7 @@
 
 
 #### - 🔭 I’m currently working on my E-commerce and a Distribution Company 
-#### - 🌱 I’m currently learning NodeJS | Docker | mySQL | Express | [English](https://www.credential.net/87a34819-ffb5-46c7-ac47-8306f23bdb26?username=pedrocostadossantos560071#gs.azip07);
+#### - 🌱 I’m currently learning NodeJS | typescript | POO | Express | [English](https://www.credential.net/87a34819-ffb5-46c7-ac47-8306f23bdb26?username=pedrocostadossantos560071#gs.azip07);
 #### - When I get the time, I like to play whith [Arduino](https://www.arduino.cc/)🤖🤖🤖
 #### - Curiosity about me: I have already participated in an [electronics competition](https://www.instagram.com/p/Boe-CIPHYlm/?utm_source=ig_web_copy_link)🥇 at [Minipa of Brazil](https://www.minipa.com.br/sobre-minipa)
 
@@ -30,6 +30,9 @@
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"  />
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"  />
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-0052CC?style=for-the-badge&logo=typescript&logoColor=white"  />
+
+
 </div>
 
 ### Contatos:
