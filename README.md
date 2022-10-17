@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"  />
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-0052CC?style=for-the-badge&logo=typescript&logoColor=white"  />
+<img src="https://img.shields.io/badge/Java-0052CC?style=for-the-badge&logo=javat&logoColor=white"  />
 
 
 </div>
